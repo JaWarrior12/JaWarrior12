@@ -1,7 +1,0 @@
-echo "# JacobM089" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/JacobM089/JacobM089.git
-git push -u origin main
