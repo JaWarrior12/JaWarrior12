@@ -7,5 +7,6 @@ Here are some ideas to get you started:
 
 -I develop New Light, a discord bot to manage drednot.io clan data.
 </br>
--My Current Project is: Dredark Battle Predictor; [Project Link](https://replit.com/@JaWarrior/Dredark-Battle-Predictor?v=1).
+-My Current Project is: New Light Version 3.7.0-d.
+</br>
 
